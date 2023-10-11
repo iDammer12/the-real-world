@@ -39,6 +39,7 @@
   font-family: sans-serif;
   font-weight: bold;
   font-size: 15px;
+  transition: all 0.3s ease-in;
 }
 
 .header-3 {
@@ -67,5 +68,19 @@
   height: 100px;
 }
 
+.header-2 a:hover {
+  text-decoration:underline;
+  text-decoration-line:underline;
+  text-underline-offset: 10px;
+}
+
+.un {
+  transition: 300ms;
+  border-bottom: 1px solid transparent;
+}
+
+.un:hover {
+  border-color: black;
+}
 
 
