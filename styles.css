@@ -69,18 +69,17 @@
 }
 
 .header-2 a:hover {
-  text-decoration:underline;
-  text-decoration-line:underline;
-  text-underline-offset: 10px;
+
 }
 
 .un {
-  transition: 300ms;
+  padding-bottom: 7px;
+  transition: 300ms ease-in;
   border-bottom: 1px solid transparent;
 }
 
 .un:hover {
-  border-color: black;
+  border-color: white;
 }
 
 
