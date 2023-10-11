@@ -1,0 +1,43 @@
+* {
+  margin: 0px;
+}
+
+.header {
+  height: 100px;
+  background-color: black;
+  left: 0;
+  top: 0;
+  right: 0;
+  margin: 0px;
+  display: flex;
+  align-items: center;
+  flex: 100px 100px 1fr 100px;
+}
+
+.header-1, .header-3 {
+  background-color: red;
+  height: 100px;
+  width: 200px;
+}
+
+.header-2 {
+  width: 800px;
+  height: 100px;
+}
+
+.header-3 {
+  width: 100%;
+}
+
+.header-4 {
+  width: 400px;
+  height: 100px;
+}
+
+.header-1 {
+  width: 200px;
+  height: 100px;
+}
+
+
+
